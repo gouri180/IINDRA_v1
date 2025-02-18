@@ -1,0 +1,12 @@
+
+streamlit
+Pillow
+numpy
+pandas
+transformers
+ultralytics
+opencv-python-headless
+tqdm
+torch
+torchvision
+easyocr
